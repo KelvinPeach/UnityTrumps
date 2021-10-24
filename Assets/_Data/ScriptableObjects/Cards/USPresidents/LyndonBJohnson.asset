@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87137ac188611041b2d77ded6e3c536, type: 3}
+  m_Name: LyndonBJohnson
+  m_EditorClassIdentifier: 
+  displayName: Lyndon B. Johnson
+  description: 
+  icon: {fileID: 21300000, guid: 98087400a1b545f4f9c7e58e2b35b784, type: 3}
+  stats:
+  - stat: {fileID: 11400000, guid: 308ca87c4597a744292d77a3666b3671, type: 2}
+    value: 1908
+  - stat: {fileID: 11400000, guid: 03e6a6edef6014f41a3146412151ed46, type: 2}
+    value: 1963
+  - stat: {fileID: 11400000, guid: d340f14fe8c28e649ba2f0a3d041e5a1, type: 2}
+    value: 486
+  - stat: {fileID: 11400000, guid: b85f7c1bbc4269143bd56c6111b13b9e, type: 2}
+    value: 325
+  - stat: {fileID: 11400000, guid: 957c030f6f9fad241bace2f8b966b028, type: 2}
+    value: 5.17
+  - stat: {fileID: 11400000, guid: dec6fbff45381f944a8c7beb612a53da, type: 2}
+    value: 0
