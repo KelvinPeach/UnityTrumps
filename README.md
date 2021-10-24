@@ -1,5 +1,5 @@
 # Unity Trumps
-![Gameplay Preview](https://github.com/KelvinPeach/UnityTrumps/preview.jpg "Gameplay Preview")
+![Gameplay Preview](https://github.com/KelvinPeach/UnityTrumps/blob/main/preview.jpg "Gameplay Preview")
 
 Unity Trumps is an open-source trumps card game. The goal is to have all the cards. To gain cards, you must have the highest stat on each turn.
 
